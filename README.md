@@ -15,7 +15,3 @@ Figma: https://www.figma.com/design/iAS3ucMGPyT8gRJWbh5QwC?node-id=4-2
 - Supabase
 - PostgreSQL
 - Vercel
-
-## Estado
-
-Repositorio inicializado. La implementación se desarrollará por fases desde ChatGPT Desktop.
